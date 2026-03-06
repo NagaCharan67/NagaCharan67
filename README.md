@@ -1,107 +1,94 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naga+Charan+👋;Aspiring+Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Insights+%26+Impact" alt="Typing SVG" />
+  <h1>Hi, I'm Naga Charan 👋</h1>
+  <h3>Software Engineer | Building scalable systems & impactful applications</h3>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tanguturu-naga-charan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Tirupati%2C%20Andhra%20Pradesh-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Tirupati,%20India-047857?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/github/followers/NagaCharan67?style=flat-square&color=6B7280" alt="Followers" />
 </div>
 
-<br/>
+<br />
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Pursuing / Studied at **Mohan Babu University**
-- 🔭 Currently seeking **Data Science / Machine Learning opportunities**
-- 🌱 Constantly learning: **LLMs, LangChain, Computer Vision, Power BI, Deep Learning**
-- 💡 Passionate about building practical AI/ML solutions that solve real-world problems
-- 📊 Love turning messy data into clean insights & beautiful dashboards
+- 🎯 **Software Engineer** passionate about clean architecture, performance, and solving real problems with code
+- 🔭 Currently exploring **full-stack development**, **system design**, **cloud-native apps**, and **AI integrations**
+- 🌱 Deepening knowledge in **distributed systems**, **TypeScript**, **Go**, **Docker/Kubernetes**, **CI/CD**
+- 💡 I build production-grade projects with tests, documentation, and thoughtful design decisions
+- 📈 Actively contributing & maintaining open-source work — open to collaboration on interesting problems
 
-<br/>
+<br />
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-00B8D9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+  <!-- Backend / Data -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<br/>
+<br />
 
-### 🔥 Some Projects I'm Proud Of
+### 🔥 Featured Projects
 
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NagaCharan67/LangChain"><b>LangChain Agents & Tools</b></a></td>
-    <td>Practical implementation of AI agents using LangChain + APIs + Serper</td>
-    <td>Jupyter, LangChain, Python</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NagaCharan67/Animal_Emotion_Detection-CNN-"><b>Animal Emotion Detection</b></a></td>
-    <td>CNN-based model to detect emotions in animals</td>
-    <td>Python, TensorFlow/PyTorch, CNN</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NagaCharan67/Customer-Chun_Analysis_Using_PowrBI"><b>Customer Churn Analysis</b></a></td>
-    <td>Interactive Power BI dashboard for churn insights</td>
-    <td>Power BI, Data Analysis</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NagaCharan67/Text_summarizer"><b>Text Summarizer (All-in-One)</b></a></td>
-    <td>Multiple summarization techniques in one place</td>
-    <td>Python, NLP</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NagaCharan67/Mental_health_chatbot"><b>Mental Health Chatbot</b></a></td>
-    <td>Basic supportive chatbot interface</td>
-    <td>HTML, possibly Python backend</td>
-  </tr>
-</table>
+Here are some projects that showcase clean code, architecture decisions, testing, and real-world utility:
 
-<br/>
+| Project | Description | Key Technologies | Highlights |
+|---------|-------------|------------------|------------|
+| **[LangChain Agents & Tools](https://github.com/NagaCharan67/LangChain)** | Built modular AI agents with tool-calling, memory & external API integrations | LangChain, Python, FastAPI, Serper | Production-ready agent patterns, error handling, observability |
+| **[Animal Emotion Detection (CNN)](https://github.com/NagaCharan67/Animal_Emotion_Detection-CNN-)** | End-to-end deep learning pipeline for emotion classification in animals | PyTorch/TensorFlow, CNN, OpenCV | Data augmentation, model optimization, deployment-ready |
+| **[Customer Churn Dashboard](https://github.com/NagaCharan67/Customer-Chun_Analysis_Using_PowrBI)** | Interactive analytics dashboard with ML churn prediction insights | Power BI, Python (scikit-learn), SQL | Business impact focused, DAX measures, storytelling |
+| **[All-in-One Text Summarizer](https://github.com/NagaCharan67/Text_summarizer)** | Unified interface for extractive + abstractive + LLM-based summarization | FastAPI, HuggingFace, Streamlit | API-first design, multiple backends, rate limiting |
+| **[Mental Health Support Chatbot](https://github.com/NagaCharan67/Mental_health_chatbot)** | Empathetic web-based chatbot with conversation flow & safety checks | HTML/CSS/JS, (optional Python backend) | UX-focused, privacy considerations, extensible |
+
+→ More projects & live demos on my [Portfolio](https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/)
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagaCharan67&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagaCharan67&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagaCharan67&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
-</div>
-
-<br/>
-
-### 📫 Let's Connect & Collaborate!
-
-Feel free to reach out if you're working on **Data Science • Machine Learning • AI Agents • NLP • Computer Vision** projects.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tanguturu-naga-charan/">→ LinkedIn</a> • 
-  <a href="https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/">→ Portfolio</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NagaCharan67&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagaCharan67&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" width="48%" />
 </div>
 
 <div align="center">
-  <sub>Thanks for visiting! ⭐ Feel free to explore my repos and let's build something impactful together 🚀</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagaCharan67&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
+
+<br />
+
+### 📫 Let's connect
+
+I'm always open to discussing software architecture, system design, open-source, or interesting engineering challenges.
+
+- **LinkedIn** → [Tanguturu Naga Charan](https://www.linkedin.com/in/tanguturu-naga-charan/)
+- **Portfolio** → [nagacharan.vercel.app](https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/)
+- Email: (add your email if comfortable)
+
+Thanks for stopping by! Feel free to explore the repos — contributions, issues, and discussions are very welcome 🚀
