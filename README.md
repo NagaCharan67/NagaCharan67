@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/tanguturu-naga-charan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/">
+  <a href="https://portfolio-flame-seven-21.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Location-Tirupati,%20India-047857?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
@@ -21,10 +21,10 @@
 ### About Me
 
 - 🎯 **Software Engineer** passionate about clean architecture, performance, and solving real problems with code
-- 🔭 Currently exploring **full-stack development**, **system design**, **cloud-native apps**, and **AI integrations**
-- 🌱 Deepening knowledge in **distributed systems**, **TypeScript**, **Go**, **Docker/Kubernetes**, **CI/CD**
-- 💡 I build production-grade projects with tests, documentation, and thoughtful design decisions
-- 📈 Actively contributing & maintaining open-source work — open to collaboration on interesting problems
+- 🔭 Currently building & exploring **full-stack applications**, **system design**, **cloud-native solutions**, and **AI integrations**
+- 🌱 Deepening knowledge in **distributed systems**, **TypeScript**, **Go**, **Docker/Kubernetes**, **CI/CD**, and modern BaaS platforms
+- 💡 I focus on production-grade code: tests, documentation, thoughtful design, and deployed live apps
+- 📈 Actively contributing & open to collaboration on challenging engineering problems
 
 <br />
 
@@ -46,29 +46,31 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
 
   <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br />
 
 ### 🔥 Featured Projects
 
-Here are some projects that showcase clean code, architecture decisions, testing, and real-world utility:
+Projects that demonstrate full-stack skills, clean architecture, deployment, and real utility:
 
 | Project | Description | Key Technologies | Highlights |
 |---------|-------------|------------------|------------|
-| **[LangChain Agents & Tools](https://github.com/NagaCharan67/LangChain)** | Built modular AI agents with tool-calling, memory & external API integrations | LangChain, Python, FastAPI, Serper | Production-ready agent patterns, error handling, observability |
-| **[Animal Emotion Detection (CNN)](https://github.com/NagaCharan67/Animal_Emotion_Detection-CNN-)** | End-to-end deep learning pipeline for emotion classification in animals | PyTorch/TensorFlow, CNN, OpenCV | Data augmentation, model optimization, deployment-ready |
-| **[Customer Churn Dashboard](https://github.com/NagaCharan67/Customer-Chun_Analysis_Using_PowrBI)** | Interactive analytics dashboard with ML churn prediction insights | Power BI, Python (scikit-learn), SQL | Business impact focused, DAX measures, storytelling |
-| **[All-in-One Text Summarizer](https://github.com/NagaCharan67/Text_summarizer)** | Unified interface for extractive + abstractive + LLM-based summarization | FastAPI, HuggingFace, Streamlit | API-first design, multiple backends, rate limiting |
-| **[Mental Health Support Chatbot](https://github.com/NagaCharan67/Mental_health_chatbot)** | Empathetic web-based chatbot with conversation flow & safety checks | HTML/CSS/JS, (optional Python backend) | UX-focused, privacy considerations, extensible |
+| **[StoreIt – Storage Management App](https://github.com/NagaCharan67/Storage-Management-Application)** | Full-stack file storage & sharing platform: upload, organize, share files, track usage with dashboard | Next.js 15 (TS), Appwrite (Auth + Storage + DB), Tailwind CSS, Vercel | User auth, file CRUD + sharing, global search, responsive UI, live at: [storeit-storage-management.vercel.app](https://storeit-storage-management.vercel.app/) |
+| **[LangChain Agents & Tools](https://github.com/NagaCharan67/LangChain)** | Modular AI agents with tool-calling, memory, external APIs & observability | LangChain, Python, FastAPI, Serper | Production-ready patterns, error handling, API integrations |
+| **[All-in-One Text Summarizer](https://github.com/NagaCharan67/Text_summarizer)** | Unified API + UI for multiple summarization techniques (extractive, abstractive, LLM) | FastAPI, HuggingFace Transformers, Streamlit | API-first, multi-backend support, rate limiting |
+| **[Credit Cruse](https://github.com/NagaCharan67/Credit-Cruse)** | Credit analysis / fraud detection tool combining ML models with user interface | Python (ML), Jupyter, JavaScript/HTML/CSS | ML pipeline + frontend integration for credit insights |
+| **[Customer Churn Analysis Dashboard](https://github.com/NagaCharan67/Customer-Chun_Analysis_Using_PowrBI)** | Interactive BI dashboard with churn prediction insights | Power BI, Python (scikit-learn), SQL | Business-focused analytics, DAX, storytelling |
 
-→ More projects & live demos on my [Portfolio](https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/)
+→ Explore more projects, live demos & case studies on my [Portfolio](https://portfolio-flame-seven-21.vercel.app/)
 
 <br />
 
@@ -83,12 +85,12 @@ Here are some projects that showcase clean code, architecture decisions, testing
 
 <br />
 
-### 📫 Let's connect
+### 📫 Let's Connect
 
-I'm always open to discussing software architecture, system design, open-source, or interesting engineering challenges.
+Open to discussions on software architecture, system design, full-stack development, open source, or tough engineering problems.
 
 - **LinkedIn** → [Tanguturu Naga Charan](https://www.linkedin.com/in/tanguturu-naga-charan/)
-- **Portfolio** → [nagacharan.vercel.app](https://portfolio-olurooakr-nagacharan67s-projects.vercel.app/)
-- Email: (add your email if comfortable)
+- **Portfolio** → [portfolio-flame-seven-21.vercel.app](https://portfolio-flame-seven-21.vercel.app/)
+- **Email** → tangututunagacharan@gmail.com
 
-Thanks for stopping by! Feel free to explore the repos — contributions, issues, and discussions are very welcome 🚀
+Thanks for visiting! Contributions, feedback, and collaborations are always welcome 🚀
